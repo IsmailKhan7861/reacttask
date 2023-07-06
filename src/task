@@ -1,0 +1,7 @@
+1)Generate Output  
+2)Identify components   
+App.js - Header 
+App.js -props - DetailsMain  -props - Details
+
+3)Custom components 
+Card - header and Details   
